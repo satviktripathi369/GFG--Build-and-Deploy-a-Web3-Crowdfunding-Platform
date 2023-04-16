@@ -23,6 +23,6 @@ This is a decentralized crowdfunding platform built on the Ethereum blockchain u
 ## Dependencies
 ### Web3.js
 ### Solidity
-### React.js
+### Vite.js
 ### Node.js
 
